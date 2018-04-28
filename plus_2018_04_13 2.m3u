@@ -1,0 +1,660 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/MasChicTV.mx.png" group-title="Spanish" tvg-id="MasChicTV.mx" tvg-name="MasChicTV.mx", Más Chic TV MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/579.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/MaxUp.mx.png" group-title="Premium Channels" tvg-id="MaxUp.mx" tvg-name="MaxUp.mx", Max UP MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/643.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FS1
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7315.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FS2
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7313.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FS2
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7312.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports.us.png" group-title="Sports" tvg-id="FoxSports.us" tvg-name="FoxSports.us", Fox Sports West US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7144.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports" tvg-id="NBATV.us" tvg-name="NBATV.us", NBA TV US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7291.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="Sports" tvg-id="NFLNetwork.us" tvg-name="NFLNetwork.us", NFL Network US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7281.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLRedZone.us.png" group-title="Sports" tvg-id="NFLRedZone.us" tvg-name="NFLRedZone.us", NFL Red Zone US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7277.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="Sports" tvg-id="NHLNetwork.us" tvg-name="NHLNetwork.us", NHL Network US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7274.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="SportsnetOntario.ca" tvg-name="SportsnetOntario.ca", Sportsnet Ontario  CA
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7260.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="Sports" tvg-id="WWE.us" tvg-name="WWE.us", WWE US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7130.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids" tvg-id="DisneyJunior.us" tvg-name="DisneyJunior.us", Disney Junior US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7340.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Network Channels" tvg-id="HallmarkMoviesMysteries.us" tvg-name="HallmarkMoviesMysteries.us", Hallmark Movies & Mysteries US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7355.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Network Channels" tvg-id="HallmarkMoviesMysteries.us" tvg-name="HallmarkMoviesMysteries.us", Hallmark Movies & Mysteries US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7354.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Cinemax East
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7352.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Cinemax Moremax
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7351.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7141.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Family FHD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7140.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Family HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7139.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO FHD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7138.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7137.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Signature HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7135.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Zone FHD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7134.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Zone HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7133.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Showtime 2
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7262.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Showtime Extreme HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7263.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", A&E HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7385.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AFNMovie.us.png" group-title="Network Channels" tvg-id="AFNMovie.us" tvg-name="AFNMovie.us", AFN Movie US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7379.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AFNNews.us.png" group-title="Network Channels" tvg-id="AFNNews.us" tvg-name="AFNNews.us", AFN News US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7378.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AFNPrimeAtlantic.us.png" group-title="Network Channels" tvg-id="AFNPrimeAtlantic.us" tvg-name="AFNPrimeAtlantic.us", AFN Prime Atlantic US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7377.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AFNPrimePacific.us.png" group-title="Network Channels" tvg-id="AFNPrimePacific.us" tvg-name="AFNPrimePacific.us", AFN Prime Pacific US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7376.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", BBC Earth
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7148.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News" tvg-id="BBCWorldNews.uk" tvg-name="BBCWorldNews.uk", BBC World News UK
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7371.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BET.us.png" group-title="Network Channels" tvg-id="BET.us" tvg-name="BET.us", BET US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7369.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBS.us.png" group-title="Network Channels" tvg-id="" tvg-name="", CBS
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7358.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CMT.us.png" group-title="Network Channels" tvg-id="CMT.us" tvg-name="CMT.us", CMT US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7350.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CW.us.png" group-title="Network Channels" tvg-id="CW.us" tvg-name="CW.us", CW US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7346.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryVelocity.us.png" group-title="Network Channels" tvg-id="DiscoveryVelocity.us" tvg-name="DiscoveryVelocity.us", Discovery Velocity US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7341.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", Family HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7322.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", LMN HDTV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7303.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBC US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7289.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN Bay Area US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7287.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN Boston US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7286.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN California US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7285.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN Chicago US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7284.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN North West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7283.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", NBCSN Philly HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7282.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Weather" tvg-id="" tvg-name="", The Weather Channel
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7252.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", TLC
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7251.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", TRAVEL CHANNEL
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7250.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", USA Network
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7240.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", EUROSPORT
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/350.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", DISCOVERY Kids HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/567.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", UNIVISION DEPORTE
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/598.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", CANAL DEPORTES 2 HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/652.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", TNT SPORT
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/701.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sports" tvg-id="" tvg-name="", FOX SPORTS 2 ARGENTINA
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/1070.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX SPORTS 1 HD ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/662.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX SPORTS 2 HD ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/661.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", FOX SPORTS 3 HD ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/660.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ESPN
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7327.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", ESPN NEWS
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7323.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", RCN
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/575.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", MEGA CHILE  HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/703.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", TVN HD CHILE
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/699.ts
+
+#EXTINF:-1 tvg-logo=""http://forounivers.com/index.php?/gallery/image/247-tvpublicapng/&do" group-title="Spanish" tvg-id="" tvg-name="", CANAL 7 TV PUBLICA ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/1093.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", CANAL 4 ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/599.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Power HD ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/602.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", TELEPIN ARG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/603.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", DISCOVERY ID HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/636.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", DISCOVERY WORLD HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/647.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", TELEMUNDO
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/572.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Sports" tvg-id="" tvg-name="", UNIVISION Deportes
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/855.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", LIFETIME HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/548.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", UNICABLE HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/693.ts
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="Network Channels" tvg-id="fe0cdba8d692ac406d78fd2e22f5cf7c" tvg-name="fe0cdba8d692ac406d78fd2e22f5cf7c", AXN HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/615.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", FOX SERIES
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/666.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Network Channels" tvg-id="" tvg-name="", SONY HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/616.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="News" tvg-id="" tvg-name="", FOX NEWS
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/557.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", NAT GEO Kids HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/576.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", BABY TV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/568.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", CARTOON NETWORK
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/732.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", BOOMERANG
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/588.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Kids" tvg-id="" tvg-name="", Starz Kids & Family HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/389.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/LasEstrellas.mx.png" group-title="Spanish" tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx", Las Estrellas MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8284.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/LasEstrellas.mx.png" group-title="Spanish" tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx", Las Estrellas MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8288.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/5Nacional.mx.png" group-title="Spanish" tvg-id="5Nacional.mx" tvg-name="5Nacional.mx", 5 Nacional MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8287.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="Azteca7.mx" tvg-name="Azteca7.mx", Azteca 7 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8286.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AztecaNoticias.mx.png" group-title="Spanish" tvg-id="AztecaNoticias.mx" tvg-name="AztecaNoticias.mx", Azteca Noticias MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8281.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Canal 8 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8443.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="GalaTV9Nacional.mx" tvg-name="GalaTV9Nacional.mx", Gala TV 9 Nacional MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8432.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Azteca Uno MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8305.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Azteca 7 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8304.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AztecaCinema.mx.png" group-title="Spanish" tvg-id="AztecaCinema.mx" tvg-name="AztecaCinema.mx", Azteca Cinema MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8303.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AztecaClic.mx.png" group-title="Spanish" tvg-id="AztecaClic.mx" tvg-name="AztecaClic.mx", Azteca Clic MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8302.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Azteca Corazon MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8301.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="AztecaMundo.mx" tvg-name="AztecaMundo.mx", Azteca Mundo MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/544.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="ImagenTV.mx" tvg-name="ImagenTV.mx", Imagen TV MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8395.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports.mx.png" group-title="Spanish" tvg-id="FoxSports.mx" tvg-name="FoxSports.mx", Fox Sports MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8324.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports2.mx.png" group-title="Spanish" tvg-id="FoxSports2.mx" tvg-name="FoxSports2.mx", Fox Sports 2 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8323.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports2.mx.png" group-title="Spanish" tvg-id="FoxSports2.mx" tvg-name="FoxSports2.mx", Fox Sports 2 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8322.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports.mx.png" group-title="Spanish" tvg-id="FoxSports.mx" tvg-name="FoxSports.mx", Fox Sports MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8321.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports2.mx.png" group-title="Spanish" tvg-id="FoxSports2.mx" tvg-name="FoxSports2.mx", Fox Sports 2 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8320.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxSports3.mx.png" group-title="Spanish" tvg-id="FoxSports3.mx" tvg-name="FoxSports3.mx", Fox Sports 3 MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8319.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="TVCDeportes.mx" tvg-name="TVCDeportes.mx", TVC Deportes MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8417.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AandE.mx.png" group-title="Spanish" tvg-id="AandE.mx" tvg-name="AandE.mx", A&E MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8316.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Atreseries.es.png" group-title="Spanish" tvg-id="Atreseries.es" tvg-name="Atreseries.es", Atreseries ES
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8315.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AnimalPlanet.mx.png" group-title="Spanish" tvg-id="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx", Animal Planet MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8309.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/BloombergTV.mx.png" group-title="Spanish" tvg-id="BloombergTV.mx" tvg-name="BloombergTV.mx", Bloomberg TV MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8294.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CableNewsNetwork.mx.png" group-title="Spanish" tvg-id="CableNewsNetwork.mx" tvg-name="CableNewsNetwork.mx", CNN  MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8277.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CNN.us.png" group-title="Spanish" tvg-id="CNN.us" tvg-name="CNN.us", CNN US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8276.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryChannel.mx.png" group-title="Spanish" tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx", Discovery Channel MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8270.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryHomeHealth.mx.png" group-title="Spanish" tvg-id="DiscoveryHomeHealth.mx" tvg-name="DiscoveryHomeHealth.mx", Discovery Home & Health MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8268.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/InvestigationDiscovery.mx.png" group-title="Spanish" tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery.mx", Investigation Discovery MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8267.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryTheater.mx.png" group-title="Spanish" tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx", Discovery Theater MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8351.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", Discovery Turbo MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8350.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryWorld.mx.png" group-title="Spanish" tvg-id="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx", Discovery World MX	
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8349.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryWorld.mx.png" group-title="Spanish" tvg-id="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx", Discovery World MX	
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8348.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/ComedyCentral.mx.png" group-title="Spanish" tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral.mx", Comedy Central MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8274.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/EEntertainment.mx.png" group-title="Spanish" tvg-id="Entertainment.mx" tvg-name="Entertainment.mx", E! Entertainment MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8342.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/SonyEntertainmentTV.mx.png" group-title="Spanish" tvg-id="SonyEntertainmentTV.mx" tvg-name="SonyEntertainmentTV.mx", Sony Entertainment TV MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8367.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Unicable.mx.png" group-title="Spanish" tvg-id="Unicable.mx" tvg-name="Unicable.mx", Unicable MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8414.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", FOX MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8332.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", FOX Action MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8331.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/FoxMovies.mx.png" group-title="Spanish" tvg-id="FoxMovies.mx" tvg-name="FoxMovies.mx", Fox Movies MX	
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8327.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="Spanish" tvg-id="FoxNews.us" tvg-name="FoxNews.us", Fox News US
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8326.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="FOXPremiumSeries.mx" tvg-name="FOXPremiumSeries.mx", FOX Premium Series MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8325.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/UniversalChannel.mx.png" group-title="Spanish" tvg-id="UniversalChannel.mx" tvg-name="UniversalChannel.mx", Universal Channel MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8413.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Cinecanal.mx.png" group-title="Spanish" tvg-id="Cinecanal.mx" tvg-name="Cinecanal.mx", Cinecanal MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8279.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/HistoryChannel.mx.png" group-title="Spanish" tvg-id="HistoryChannel.mx" tvg-name="HistoryChannel.mx", History Channel MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8399.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CartoonNetwork.mx.png" group-title="Spanish" tvg-id="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx", Cartoon Network MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8280.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="" tvg-name="", NICK MX
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8379.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Spanish" tvg-id="Nick2.mx" tvg-name="Nick2.mx", Nick 2 MX	
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/8378.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO 2 West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/419.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Plus West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/418.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", HBO Signature HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/417.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", 5 StarMax HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/466.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", IndiePlex HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/416.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", MoreMax HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/415.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", OuterMax HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/412.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", RetroPlex HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/411.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Showtime West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/410.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Black HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/409.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Comedy HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/405.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/404.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Edge HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/403.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Edge West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/402.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore 2 East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/401.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Action 1080P
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/400.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Black HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/399.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Classic HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/398.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/397.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Family HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/396.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/395.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Suspense HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/394.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/393.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Encore Western HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/392.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Family HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/391.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/390.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/388.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Staz West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/387.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="",  HBO East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/501.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="",  HBO Plus West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/498.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", MAX PRIME
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/644.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", AMC HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/665.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", SPACE HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/712.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", STUDIO UNIVERSAL
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/574.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", PARAMOUNT CHANNEL HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/722.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", HBO 2 HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/420.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 01 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/465.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 02 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/464.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 03 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/463.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 04 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/462.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 05 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/461.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 06 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/460.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 07 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/459.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 08 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/458.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 09 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/457.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 10 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/456.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 11 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/455.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 12 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/454.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 13 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/453.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 14 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/452.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 15 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/451.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 16 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/450.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 17 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/449.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 18 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/448.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 19 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/447.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 20 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/446.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 21 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/445.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 22 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/444.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 23 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/443.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 24 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/442.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 25 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/441.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 26 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/440.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 27 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/439.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 28 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/438.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 29 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/437.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 30 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/436.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 31 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/435.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 32 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/434.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 33 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/433.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 34 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/432.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 35 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/431.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 36 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/430.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 37 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/429.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 38 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/428.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 39 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/427.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 40 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/426.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinema 41 PPV
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/425.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinemax Action 2 HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/424.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinemax Action East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/423.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinemax East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/422.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Movies" tvg-id="" tvg-name="", Cinemax West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/421.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", MovieMax HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/414.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", MoviePlex HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/413.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Cinema East HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/408.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Cinema HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/407.ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Premium Channels" tvg-id="" tvg-name="", Starz Cinema West HD
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/406.ts
