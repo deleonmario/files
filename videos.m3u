@@ -75,9 +75,6 @@ http://sv7.uploadt.com/Movie/2017.12/A.Question.Of.Faith.2017.1080p.BrRip.x264_A
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The.Killing.o.a.Sacred.Deer.2017.1080p"  group-title="Movies",The.Killing.o.a.Sacred.Deer.2017.1080p
 http://sv7.uploadt.com/Movie/2017.12/The.Killing.o.a.Sacred.Deer.2017.1080p.WEB-DL.x265.HEVC_AVADL.ME.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="12.Strong.2018.1080p"  group-title="New Group",12.Strong.2018.1080p
-http://s3.dlrozane.com/dlroozane/97/01/12.Strong.2018.1080p.mkv
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Churchill.2017.1080p"  group-title="New Group",Churchill.2017.1080p
 http://s3.dlrozane.com/dlroozane/97/01/Churchill.2017.1080p.Farsi.Dub.mkv
 
@@ -95,4 +92,73 @@ http://s3.dlrozane.com/dlroozane/96/7/Spider_Man_Homecoming_2017_1080p_Farsi_Dub
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The.Nut.Job.2.Nutty.by.Nature.2017.1080p"  group-title="New Group",The.Nut.Job.2.Nutty.by.Nature.2017.1080p
 http://s3.dlrozane.com/dlroozane/96/9/The.Nut.Job.2.Nutty.by.Nature.2017.BluRay.1080p.Dubble.Farsi.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="100 Streets 2016 1080p"  group-title="New Group",100 Streets 2016 1080p
+http://cdn.downloadkral.com/files/video/100_Streets_2016_1080p_parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="12.Strong.2018"  group-title="New Group",12.Strong.2018
+http://cdn.downloadkral.com/files/video/12.Strong.2018.1080p.Blu-Ray.x264.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A.Silent.Voice.2016.1080p"  group-title="New Group",A.Silent.Voice.2016.1080p
+http://cdn.downloadkral.com/files/video/A.Silent.Voice.2016.1080p.BluRay.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Alien.Covenant.2017.1080p"  group-title="New Group",Alien.Covenant.2017.1080p
+http://cdn.downloadkral.com/files/video/Alien.Covenant.2017.1080p.Exclusive.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Baby.Driver.2017.1080p"  group-title="New Group",Baby.Driver.2017.1080p
+http://cdn.downloadkral.com/files/video/Baby.Driver.2017.1080p.BluRay.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Despicable Me 3 2017 1080p"  group-title="New Group",Despicable Me 3 2017 1080p
+http://cdn.downloadkral.com/files/video/Despicable_Me_3_2017_1080p_parsi_downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Guardians.of.the.Galaxy.Vol.2.2017.1080p"  group-title="New Group",Guardians.of.the.Galaxy.Vol.2.2017.1080p
+http://cdn.downloadkral.com/files/video/Guardians.of.the.Galaxy.Vol.2.2017.1080p.Exclusive.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Jumanji Welcome.to.the.Jungle.2017.2017.1080p"  group-title="New Group",Jumanji Welcome.to.the.Jungle.2017.2017.1080p
+http://cdn.downloadkral.com/files/video/Jumanji%3AWelcome.to.the.Jungle.2017.2017.1080p.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Murder.on.the.Orient.Express.2017.1080p"  group-title="New Group",Murder.on.the.Orient.Express.2017.1080p
+http://cdn.downloadkral.com/files/video/Murder.on.the.Orient.Express.2017.1080p.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Smurfs.The.Lost.Village.2017.1080p"  group-title="New Group",Smurfs.The.Lost.Village.2017.1080p
+http://cdn.downloadkral.com/files/video/Smurfs.The.Lost.Village.2017.1080p.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Term.Life.2016.BluRay.1080p"  group-title="New Group",Term.Life.2016.BluRay.1080p
+http://cdn.downloadkral.com/files/video/Term.Life.2016.BluRay.1080p.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The.Nut.Job.2.Nutty.by.Nature.2017.1080p"  group-title="New Group",The.Nut.Job.2.Nutty.by.Nature.2017.1080p
+http://cdn.downloadkral.com/files/video/The.Nut.Job.2.Nutty.by.Nature.2017.1080p.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The.Shack.2017.1080p"  group-title="New Group",The.Shack.2017.1080p
+http://cdn.downloadkral.com/files/video/The.Shack.2017.1080p.BluRay.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Valerian.and.the.City.of.a.Thousand.Planets.2017.BluRay.1080p"  group-title="New Group",Valerian.and.the.City.of.a.Thousand.Planets.2017.BluRay.1080p
+http://cdn.downloadkral.com/files/video/Valerian.and.the.City.of.a.Thousand.Planets.2017.BluRay.1080p.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="War.For.The.Planet.Of.The.Apes.2017.Bluray.1080p"  group-title="New Group",War.For.The.Planet.Of.The.Apes.2017.Bluray.1080p
+http://cdn.downloadkral.com/files/video/War.For.The.Planet.Of.The.Apes.2017.Bluray.1080p.x264.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="What.Happened.to.Monday.2017.1080p"  group-title="New Group",What.Happened.to.Monday.2017.1080p
+http://cdn.downloadkral.com/files/video/What.Happened.to.Monday.2017.1080p.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ace.Ventura.Pet.Detective.1994.1080p"  group-title="New Group",Ace.Ventura.Pet.Detective.1994.1080p
+http://cdn.downloadkral.com/files/setare/movie/Ace.Ventura.Pet.Detective.1994.1080p.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Shrek.2.2004.1080p"  group-title="New Group",Shrek.2.2004.1080p
+http://cdn.downloadkral.com/files/2016/movie/Shrek.2.2004.1080p.Farsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Shrek.2001.1080p"  group-title="New Group",Shrek.2001.1080p
+http://cdn.downloadkral.com/files/2016/movie/Shrek.2001.1080p.Farsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Shrek.the.Third.2007.1080p"  group-title="New Group",Shrek.the.Third.2007.1080p
+http://cdn.downloadkral.com/files/2016/movie/Shrek.the.Third.2007.1080p.Farsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Third.Star.2010.1080p"  group-title="New Group",Third.Star.2010.1080p
+http://cdn.downloadkral.com/files/2016/movie/Third.Star.2010.1080p.parsi.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Collateral.Beauty.2016.1080p"  group-title="New Group",Collateral.Beauty.2016.1080p
+http://cdn.downloadkral.com/files/2016/movies/Collateral.Beauty.2016.1080p.6CH.downloadkral.com.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="The.Mask.1994.Bluray.1080p"  group-title="New Group",The.Mask.1994.Bluray.1080p
+http://cdn.downloadkral.com/files/2016/movies/The.Mask.1994.Bluray.1080p.parsi.downloadkral.com.mkv
 
